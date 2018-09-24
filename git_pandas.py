@@ -27,4 +27,5 @@ df = pd.DataFrame(my_data,
 #df.mean(0)
 #df["age"].mean()
 
+
 #Get the mean of the Average Spending
