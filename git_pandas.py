@@ -23,9 +23,6 @@ df = pd.DataFrame(my_data,
                   index=['C1','C2','C3','C4','C5'],
                   columns = ['first_name','age', 'RFM_Star', 'AvgSpend'])
 
-#Exercise uncomment the next lines and check the average of all
-#df.mean(0)
-#df["age"].mean()
-
-
-#Get the mean of the Average Spending
+Exercise uncomment the next lines and check the average of all
+df.mean(0)
+df["age"].mean()
